@@ -1,8 +1,4 @@
 /*****************************************************
-* Assignment : 1  part 1*
-* Name : Emmanuel Zacharioudakis *
-* Student ID : 002351794 *
-* Date : 25/9/2023 *
 * This is a calculator which calculates the quadratic roots of three given numbers *
 ******************************************************/
 
